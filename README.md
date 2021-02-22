@@ -1,1 +1,16 @@
-juego simon dice
+# Juego-Memoria
+
+Juego de memoria en el cual debes prestar mucha atención a las luces de colores para repetir la secuencia. Si aciertas, las secuencias serán más larga y complejas. El juego consiste en 7 niveles, realizado con el curso de Javascript de la Academia [Platzi](https://platzi.com/) 🚀 
+
+## Link al sitio web 📌
+Puedes visualizar el sitio web en el siguiente link:
+ 
+
+## Herramientas utilizadas 🛠️
+* Javascript 
+* HTML5
+* CSS3
+
+## Previsualización 📖
+Una muestra de como se ve el sitio web. 
+![]()
