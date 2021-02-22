@@ -4,6 +4,7 @@ Juego de memoria en el cual debes prestar mucha atención a las luces de colores
 
 ## Link al sitio web 📌
 Puedes visualizar el sitio web en el siguiente link:
+https://paolarod.github.io/juego-memoria/.
  
 
 ## Herramientas utilizadas 🛠️
@@ -13,4 +14,4 @@ Puedes visualizar el sitio web en el siguiente link:
 
 ## Previsualización 📖
 Una muestra de como se ve el sitio web. 
-![]()
+![](https://github.com/PaolaRod/juego-memoria/blob/master/images/memoria.png)
